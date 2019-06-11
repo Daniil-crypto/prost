@@ -1,0 +1,46 @@
+.str1{
+    position: absolute;
+    font-size:20px;
+}
+.str2{
+    position: absolute;
+    font-size:20px;
+    margin-left: 400px;
+}
+.str3{
+    position: absolute;
+    font-size:20px;
+    margin-left: 800px;
+}
+.str4{
+    position: absolute;
+    font-size:20px;
+    margin-left: 1200px;
+}
+.menu{
+    background-color: gray;
+    width:1380px;
+    height: 30px;
+    margin-bottom: 10px;
+}
+.kar2{
+    float: left;
+    margin-top: 10px;
+}
+.kar3{
+    float: left;
+    margin-left: 80px;
+    margin-top: 10px;
+}
+.kar4{
+    float: left;
+    text-align: center;
+    margin-left: 84px;
+    margin-top: 10px;
+}
+.strelka{
+    width: 0;
+    height: 0;
+    border: 10px solid black;
+    border-left: none;
+}
